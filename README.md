@@ -6,13 +6,13 @@ The dataset is retrieved from Machine Learning Website by Professor Eric Suess a
 
 1. Divide the features into two sections: numerical and categorical in order to clean and transform each appropriately. 
 2. For categorical features:
-    a. create a dataframe and clean missing data
-    b. represent data visually in an appropriate format
-    c. drop irrelevant features within reason and logic presented. 
-    d. convert categorical variables to represent in a binary format.  
+a. create a dataframe and clean missing data
+b. represent data visually in an appropriate format
+c. drop irrelevant features within reason and logic presented. 
+d. convert categorical variables to represent in a binary format.  
 3. For numerical features:
-    a. create a dataframe and clean missing data
-    b. represent data visually in an appropriate format
-    c. drop irrelevant features within reason and logic presented. 
+a. create a dataframe and clean missing data
+b. represent data visually in an appropriate format
+c. drop irrelevant features within reason and logic presented. 
 4. Create a Linear Model, fit and predict the relevant features. 
 5. Use appropriate metrics to measure effectiveness of model. 
