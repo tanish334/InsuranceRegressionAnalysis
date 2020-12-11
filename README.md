@@ -1,4 +1,4 @@
-# [Insurance Regression Analysis] (https://www.kaggle.com/tanishpanjwani/insurance-regression-analysis-and-prediction)
+# [Insurance Regression Analysis](https://www.kaggle.com/tanishpanjwani/insurance-regression-analysis-and-prediction)
 ### General Description
 The dataset is retrieved from Machine Learning Website by Professor Eric Suess at http://www.sci.csueastbay.edu/~esuess/stat6620/#week-6. It contains 7 features (4 numerical and 3 categorical), and the target column contains medical expenses incurred by each individual.  
 
